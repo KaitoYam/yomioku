@@ -3,7 +3,7 @@
 ## 基本情報
 
 作成者：トラハック
-発行日：2020 年 8 月 7 日
+発行日：2020 年 8月 7日
 URL：https://youtu.be/F77RUjHZEAc?list=PLX8Rsrpnn3IUGEyanrHYGjY1WOzNe7Jd-
 
 # 記録
@@ -14,3 +14,5 @@ URL：https://youtu.be/F77RUjHZEAc?list=PLX8Rsrpnn3IUGEyanrHYGjY1WOzNe7Jd-
 - [x] #2 サクッと環境構築しよう
 - [x] #3 高速ページ遷移を体感しよう
 - [x] #4 画像、メタデータ、そして CSS
+- [x] #5-1 Pre-renderingの使い分け
+- [x] #5-2 Pre-renderingを体験してみよう
