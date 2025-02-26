@@ -16,3 +16,6 @@ URL：https://youtu.be/F77RUjHZEAc?list=PLX8Rsrpnn3IUGEyanrHYGjY1WOzNe7Jd-
 - [x] #4 画像、メタデータ、そして CSS
 - [x] #5-1 Pre-renderingの使い分け
 - [x] #5-2 Pre-renderingを体験してみよう
+- [x] #6-1 Dynamic Routesの設定
+- [x] #6-2 Catch-all Routesを使おう
+- [x] #9 TypeScriptを導入しよう
