@@ -3,7 +3,7 @@
 ## 基本情報
 
 作成者：トラハック
-発行日：2020 年 5 月 20 日
+発行日：2020/05/20
 URL：https://youtu.be/FBMA34gUsgw?list=PLX8Rsrpnn3IWavNOj3n4Vypzwb3q1RXhr
 
 # 記録
