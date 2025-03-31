@@ -3,7 +3,7 @@
 ## 基本情報
 
 作成者：トラハック
-発行日：2020 年 5 月 20 日
+発行日：2020/05/20
 URL：https://youtu.be/FBMA34gUsgw?list=PLX8Rsrpnn3IWavNOj3n4Vypzwb3q1RXhr
 
 # 記録
@@ -16,3 +16,6 @@ URL：https://youtu.be/FBMA34gUsgw?list=PLX8Rsrpnn3IWavNOj3n4Vypzwb3q1RXhr
 - [x] #4...Actions を書いて state の変更を依頼しよう
 - [x] #5...Reducers の作り方とスプレッド構文の使い方
 - [x] #6...Redux(Store)と React を接続して state を変更しよう
+- [x] #7...URL に応じたコンポーネントを表示しよう
+- [x] #8...re-ducks パターンでファイル管理しよう
+- [x] #9...redux-thunk で非同期処理を制御すべし
